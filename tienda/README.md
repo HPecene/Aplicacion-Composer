@@ -1,6 +1,6 @@
 # tienda
 
-Red de practica
+Red de tienda
 
 Participantes:
   Existen 2 participantes, el usuario que consta de id, nombres, apellidos y saldo, ademas de la sucursal que tiene id, nombre y ganancias. El usuario es el que interactua con la plataforma y realiza compras, la sucursal es la que almacena los productos y obtiene las ganancias cuando uno de estos es vendido.
